@@ -19,7 +19,7 @@ permalink: /service.html
 
 ## Step 2 .添加管理员购买套餐
 
-管理员WeChat: coretwb
+管理员EMail:a1447754529@163.com
 
 服务时间:每周末下午1:00-6:00或节假日在线期间
 
